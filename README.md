@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
 <h3 align="center">A passionate Full-Stack developer from Brazil</h3>
 
-- 🔭 I’m currently working on my Studies in TypeScript
+- 🔭 I’m currently working in a Stock API
 
 - 🌱 I’m currently learning **React, TypeScript and Node.js**
 
