@@ -1,7 +1,7 @@
 <h1 align="center">Olá sou o Victor</h1>
 <h3 align="center">Um programador Backend apaixonado por tecnologia</h3>
 
-- 🔭 Atualmente estou trabalhando com [MIP]([https://github.com/victorzix/Cloth_Store](https://github.com/mip-work/backend/tree/nest/first_instance))
+- 🔭 Atualmente estou trabalhando com [MIP](https://github.com/victorzix/Cloth_Store](https://github.com/mip-work/backend/tree/nest/first_instance)
 
 - 🌱 Estou focado em aprender **C#, ASP.NET Core, Docker**
 
