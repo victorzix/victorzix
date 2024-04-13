@@ -3,13 +3,12 @@
 
 - 🔭 Atualmente estou trabalhando com [MIP](https://github.com/mip-work/backend/tree/nest/first_instance)
 
-- 🌱 Estou focado em aprender **C#, ASP.NET Core, Docker**
+- 🌱 Estou focado em aprender **NestJs e Docker**
 
 - 👨‍💻 Você pode acessar meus projetos em [https://github.com/victorzix](https://github.com/victorzix)
 
 - 📫 Como me encontrar **victoraphael.dev@gmail.com**
 
-- 📄 Meu curriculo [https://victoraphael.com.br/victorcurr.pdf](https://victoraphael.com.br/victorcurr.pdf)
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
